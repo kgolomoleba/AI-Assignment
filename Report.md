@@ -1,9 +1,9 @@
-#📄 AI Tools Assignment Report
-#🧠 Mastering the AI Toolkit
+#📄 AI Tools Assignment Report#
+#🧠 Mastering the AI Toolkit#
 
-##✅ Part 1: Theoretical Understanding
+##✅ Part 1: Theoretical Understanding##
 
-###Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
+###Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?###
 
 TensorFlow → Best for production deployment, uses static computational graphs, integrates well with mobile/edge devices (TensorFlow Lite).
 
