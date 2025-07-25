@@ -1,7 +1,9 @@
-📄 AI Tools Assignment Report
-🧠 Mastering the AI Toolkit
-✅ Part 1: Theoretical Understanding
-Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
+#📄 AI Tools Assignment Report
+#🧠 Mastering the AI Toolkit
+
+##✅ Part 1: Theoretical Understanding
+
+###Q1: Explain the primary differences between TensorFlow and PyTorch. When would you choose one over the other?
 
 TensorFlow → Best for production deployment, uses static computational graphs, integrates well with mobile/edge devices (TensorFlow Lite).
 
@@ -13,7 +15,7 @@ Use TensorFlow for scalable production systems.
 
 Use PyTorch for flexible prototyping & academic research.
 
-Q2: Describe two use cases for Jupyter Notebooks in AI development.
+###Q2: Describe two use cases for Jupyter Notebooks in AI development.
 
 Interactive Prototyping → Test and visualize ML models step by step in an interactive environment.
 
